@@ -1,0 +1,16 @@
+/* 	Student Name: Brandon Reyes
+	File Name: style.css
+	Date: 2/26/2024*/
+
+  /* CSS reset */
+
+  /* Style rule for the body and image */
+
+  body {
+  background-color: #e3eaf8;
+}
+
+img {
+max-width: 100%;
+display: block;
+}
